@@ -11,3 +11,8 @@ The Road Of Machine Learning
 ##[ 机器学习之决策树（Decision Tree）及其Python代码实现](http://blog.csdn.net/sinat_35512245/article/details/54927178)
 
 ##[机器学习之Logistic回归(逻辑蒂斯回归）](http://blog.csdn.net/sinat_35512245/article/details/54881672)
+<br/>
+<br/>
+<br/>
+
+##看完记得给我星星哦，这是对我最大的鼓励！
