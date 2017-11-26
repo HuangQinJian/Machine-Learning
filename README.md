@@ -16,3 +16,5 @@ The Road Of Machine Learning
 <br/>
 
 ### 看完记得给我星星哦，这是对我最大的鼓励！
+
+## 更多资源可前往的博客查看：[个人博客](http://blog.csdn.net/sinat_35512245)
