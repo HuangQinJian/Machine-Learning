@@ -18,6 +18,7 @@ The Road Of Machine Learning
 
 [吴恩达深度学习课程笔记之卷积神经网络基本操作详解](http://blog.csdn.net/sinat_35512245/article/details/78718603)
 
+### [BAT机器学习面试1000题系列](http://blog.csdn.net/sinat_35512245/article/details/78796328)
 <br/>
 <br/>
 <br/>
