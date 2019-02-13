@@ -18,9 +18,15 @@ The Road Of Machine Learning
 
 [吴恩达深度学习课程笔记之卷积神经网络基本操作详解](http://blog.csdn.net/sinat_35512245/article/details/78718603)
 
+---
+### 来自牛客网：
+[2018年机器学习岗面试干货(京东／华为／美图／招银)](https://www.nowcoder.com/discuss/108820?type=0&order=0&pos=22&page=1)
+
+---
+
 ### [BAT机器学习面试1000题系列](http://blog.csdn.net/sinat_35512245/article/details/78796328)
-<br/>
-<br/>
+
 <br/>
 
+---
 ## 更多资源可前往的博客查看：[个人博客](http://blog.csdn.net/sinat_35512245)
