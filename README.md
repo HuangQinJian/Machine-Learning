@@ -18,7 +18,18 @@ The Road Of Machine Learning
 
 [吴恩达深度学习课程笔记之卷积神经网络基本操作详解](http://blog.csdn.net/sinat_35512245/article/details/78718603)
 
+[机器学习知识点](https://huangqinjian.blog.csdn.net/article/details/78845624)
+
+[机器学习之从极大似然估计到最大熵原理以及EM算法详解](https://huangqinjian.blog.csdn.net/article/details/78774972)
+
+[Pandas使用DataFrame进行数据分析比赛进阶之路（一）](https://huangqinjian.blog.csdn.net/article/details/79685891)
+
+[Keras-RetinaNet训练自己的数据详细教程](https://huangqinjian.blog.csdn.net/article/details/88188365)
+
+[Pandas使用DataFrame进行数据分析比赛进阶之路（二）：日期数据处理：按日期筛选、显示及统计数据](https://huangqinjian.blog.csdn.net/article/details/79791190)
+
 ---
+
 ### 来自牛客网：
 [2018年机器学习岗面试干货(京东／华为／美图／招银)](https://www.nowcoder.com/discuss/108820?type=0&order=0&pos=22&page=1)
 
